@@ -25,3 +25,5 @@ fi
 
 
 echo "**** If you are not root user please use su - command to switch to root user**** "
+echo "$PWD"
+
