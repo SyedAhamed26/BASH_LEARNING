@@ -22,3 +22,6 @@ else
     echo "Your User ID is $user_id, you are not root"
     exit 1
 fi
+
+
+echo "**** If you are not root user please use su - command to switch to root user**** "
